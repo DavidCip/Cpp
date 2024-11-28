@@ -1,0 +1,2 @@
+﻿  Adunare.cpp
+C:\Users\david\Desktop\C++\Adunare\Adunare\Adunare.cpp(1,1): error C1041: cannot open program database 'C:\Users\david\Desktop\C++\Adunare\Adunare\x64\Debug\vc143.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
