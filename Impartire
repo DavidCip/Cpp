@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double numar1, numar2, rezultat;
+
+         cout << "Introdu primul numar: ";
+         cin >> numar1;
+
+         cout << "Introdu al doilea numar: ";
+         cin >> numar2;
+
+    
+    if (numar2 == 0) {
+         cout << "Eroare" << endl;
+    }
+    else {
+        rezultat = numar1 / numar2;
+         cout << "Rezultatul impartirii este: " << rezultat << endl;
+    }
+
+    return 0;
+}
